@@ -15,4 +15,5 @@ open an issue on a template repository.
 npm install
 bin/vue init <path-to-github-repo OR path-to-local-dir>
 bin/vue list
+test
 ```
